@@ -1,8 +1,8 @@
-[![XDBOT](https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)](https://github.com/DIGITAUSERBOTLBOTXD/)
+[![XDBOT](https://telegra.ph//file/a1cb97a46b6c27a050902.jpg)](https://github.com/DIGITAUSERBOTLBOTXD/)
 
 
 <h1 align="center">
-<b> 『Lêɠêɳ̃dẞø†』 </b>
+<b> 『ϰ∂ ẞø†』 </b>
 </h1>
 
 <h6 align="center">
