@@ -34,7 +34,6 @@
 -------
 
 ## Variables
-
 Required :-
 
 - `APP_ID`  =  Get this value from my.telegram.org
@@ -52,7 +51,6 @@ Optional :-
 
 --------
 ## String Session
-  
 [![Run on Repl.it](https://replit.com/badge/github/LEGEND-AI/LEGENDBOT)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py)
 
 Bot Link Will Soon Provide 
