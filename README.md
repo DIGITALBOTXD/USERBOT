@@ -35,9 +35,6 @@
 
 ## Variables
 
-- [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Collect+•+AllVariables+•&style=social)](https://youtu.be/CH_KO1wim2o)
-
-
 Required :-
 
 - `APP_ID`  =  Get this value from my.telegram.org
@@ -55,10 +52,7 @@ Optional :-
 
 --------
 ## String Session
-
-- [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Generate+•+Telethon+•&style=social)](https://youtu.be/CH_KO1wim2o)
-
-
+  
 [![Run on Repl.it](https://replit.com/badge/github/LEGEND-AI/LEGENDBOT)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py)
 
 Bot Link Will Soon Provide 
