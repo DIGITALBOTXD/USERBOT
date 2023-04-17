@@ -17,23 +17,23 @@
     },
     "ALIVE_NAME": {
       "description": "give your name",
-      "value": ""
+      "value": "иααƶ ʙστ ϰ∂"
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "26894891"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "348680949f7c12b821da051afec73bfe"
     },
     "LEGEND_STRING": {
       "description": "Get this value by running https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py",
-      "value": ""
+      "value": "1BVtsOLoBuyalWvAo3J7buNM6g_RJNxOZt2-9uKf3WY9_AcDC7yEKMv8rL0Sde2vff9p3DTAEq2NKwjj3On8uVRAWIqyhI2eDPJomXZHqQxLAtpF8P7OilDI_WIqiibCGhx14izdUzeCsNcMca8p9Fs6jCa8qZqiLFRdWQBJqnxDn17FlpQkCluwUBi2keFJm_dghu8JjZb6allTmhTi88OLvbRSW75R_aheq5IySaw8v9P7YNNsLiJJhDVCKZqFQK6ozhx0MjOWPZ0768WqQ5pPinPYqrOid-NmWOFV-nwAaInUi7gfFtmaNE9dcJYSx_JxfetMwUqX1rFtWdLBoqoftiJ796rg="
     },
     "BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
-      "value": ""
+      "value": "5774786084:AAFFophZPKWhhJEydujYvEFo5hz3xEkOxPA"
     },
     "HANDLER": {
       "description": "Set this one with only one the symbol to use it before your command to run like . , ' `",
