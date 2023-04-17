@@ -1,4 +1,4 @@
-[![LEGENDBOT](https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)](https://github.com/ITS-LEGENDBOT/LEGENDBOT)
+[![XDBOT](https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)](https://github.com/DIGITAUSERBOTLBOTXD/)
 
 
 <h1 align="center">
@@ -31,12 +31,6 @@
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/LegendBot_Group)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/LegendBot_Update)
   
-------
-  
-## YouTube 📺
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UCvp8PY25PTRhFDZjLv3sVfg)
-
-
 -------
 
 ## Variables
@@ -179,4 +173,4 @@ Bot Link Will Soon Provide
 </details>
 
 
-> Made with 💕 by [@LegendUserBot_XD](https://t.me/LegendUserBot_XD).    
+> Made with 💕 by [@ROCKY_FlGHTERR](https://t.me/ROCKY_FlGHTERR).    
