@@ -23,13 +23,13 @@
 ------
 ## Status Of Bot 
 <p align="left">
-<a href="https://github.com/LEGEND-AI/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT?"></a>
+<a href="https://github.com/DIGITALBOTXD/USERBO/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT"></a><p align="left"><a href="https://github.com/DIGITALBOTXD/USERBOT?"></a>
   
 ------
   
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/LegendBot_Group)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/LegendBot_Update)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/XD_BOTZZ)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/XD_MUSIC_BOTZ)
   
 -------
 
@@ -82,7 +82,7 @@ Bot Link Will Soon Provide
 
 - `sudo apt install --no-install-recommends -y curl git libffi-dev libjpeg-dev libwebp-dev python3-lxml python3-psycopg2 libpq-dev libcurl4-openssl-dev libxml2-dev libxslt1-dev python3-pip python3-sqlalchemy openssl wget python3 python3-dev libreadline-dev libyaml-dev gcc zlib1g ffmpeg libssl-dev libgconf-2-4 libxi6 unzip libopus0 libopus-dev python3-venv libmagickwand-dev pv tree mediainfo`
 
-- `git clone https://github.com/ITS-LEGENDBOT/LEGENDBOT` 
+- `git clone https://github.com/DIGITAL_BOT_XD 
 
 - `cd LEGENDBOT`
 
